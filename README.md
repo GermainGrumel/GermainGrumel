@@ -1,4 +1,3 @@
-<!--START_SECTION:waka-->
 
 ### Hi there 👋
 
@@ -119,5 +118,4 @@ HTML/SASS                     9 repos             ██░░░░░░░░
 ![Chart not found](https://raw.githubusercontent.com/GermainGrumel/MrStanDu33/master/charts/bar_graph.png) 
 
 
-<!--END_SECTION:waka-->
 </details>
