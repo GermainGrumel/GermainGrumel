@@ -110,9 +110,4 @@ HTML/SASS                     9 repos             ██░░░░░░░░
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/GermainGrumel/MrStanDu33/master/charts/bar_graph.png) 
-
-
 </details>
