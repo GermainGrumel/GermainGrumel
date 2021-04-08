@@ -29,8 +29,8 @@
 <p>
   🧔 Salut moi c'est <bold>Germain</bold> :). 21 ans, étudiant à l'ECV Digital Bordeaux en Mastère 1 Web Développement.<br/>
   💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web Full-Stack chez <bold>Formacéo</bold><em>(<a href="https://formaceo.com"></a>)</em>
-  🥋 Ceinture Noire de Karaté
+  💻 Développeur Web Full-Stack chez <a href="https://formaceo.com"><bold>Formacéo</bold></a><br/>
+  🥋 Ceinture Noire de Karaté<br/>
   🥊 Mon sport du moment c'est la Boxe Thaï et de la MMA en club
 </p>
 <br/>
