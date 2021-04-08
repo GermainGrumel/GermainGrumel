@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+
 ### Hi there 👋
 
 <!--
@@ -40,8 +42,7 @@
 <details>
   <summary>Quelques statistiques ...</summary><br/>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-251-orange)
 
 **🐱 My Github Data** 
 
