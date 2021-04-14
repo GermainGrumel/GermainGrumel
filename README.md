@@ -2,8 +2,7 @@
 ### Hi there 👋
 
 
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=GermainGrumel&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Flutter-23A4F2?style=flat-square&logo=Flutter&logoColor=white"/>
@@ -24,7 +23,6 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
   </p>
-</p>
 
 <img src="http://views.whatilearened.today/views/github/GermainGrumel/views.svg"/>
 <h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
@@ -36,7 +34,16 @@
   🥊 Mon sport du moment c'est la Boxe Thaï et de la MMA en club
 </p>
 <br/>
+<a href="https://github.com/GermainGrumel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/GermainGrumel">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GermainGrumel&show_icons=true&theme=light&line_height=27" alt="GermainGrumel's github stats"/>
+</a>
+<a href="https://github.com/GermainGrumel/formaceo-desktop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GermainGrumel&repo=formaceo-desktop&theme=light" />
 
+</a>
 <details>
   <summary>Quelques statistiques ...</summary><br/>
 
