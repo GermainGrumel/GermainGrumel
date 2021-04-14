@@ -35,13 +35,13 @@
 </p>
 <br/>
 <a href="https://github.com/GermainGrumel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermainGrumel&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/GermainGrumel">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GermainGrumel&show_icons=true&theme=light&line_height=27" alt="GermainGrumel's github stats"/>
 </a>
-<a href="https://github.com/GermainGrumel/formaceo-desktop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GermainGrumel&repo=formaceo-desktop&theme=light" />
+<a href="https://github.com/GermainGrumel/Slack-Music-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GermainGrumel&repo=Slack-Music-Bot&theme=light" />
 
 </a>
 <details>
