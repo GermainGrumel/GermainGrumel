@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/-Flutter-23A4F2?style=flat-square&logo=Flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Dart-236812?style=flat-square&logo=Dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AWS-182841?style=flat-square&logo=AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
      <img src="https://img.shields.io/badge/-Bash-CB3165?style=flat-square&logo=Bash&logoColor=white"/>
