@@ -28,14 +28,7 @@
   </p>
 
 <img src="http://views.whatilearened.today/views/github/GermainGrumel/views.svg"/>
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
-<p>
-  🧔 Salut moi c'est <bold>Germain</bold> :). 21 ans, étudiant à l'ECV Digital Bordeaux en Mastère 1 Web Développement.<br/>
-  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web Full-Stack chez <a href="https://formaceo.com"><bold>Formacéo</bold></a><br/>
-  🥋 Ceinture Noire de Karaté<br/>
-  🥊 Mon sport du moment c'est la Boxe Thaï et de la MMA en club
-</p>
+
 <br/>
 <a href="https://github.com/GermainGrumel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermainGrumel&theme=light&hide=java,dart,html,css" />
