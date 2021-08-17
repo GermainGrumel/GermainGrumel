@@ -41,6 +41,10 @@
 
 </a>
 <details>
+  <h2>Currently learning :</h2>
+  <p>Django, Django ORM</p>
+   <p>Vue JS</p>
+  
   <summary>Quelques statistiques ...</summary><br/>
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-251-orange)
